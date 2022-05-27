@@ -55,3 +55,6 @@ For the database connectivity with the java application, we need to mainly follo
 <img src="https://github.com/Sagar-Wadhwa-726/Sagar-Wadhwa-726-Java-AWT-Python-Quiz-Game-Application/blob/main/ProjectScreenShots/invalid_user.png" width="600" height="400">
 <br />
 
+- SQL Entry for a User
+<img src="https://github.com/Sagar-Wadhwa-726/Sagar-Wadhwa-726-Java-AWT-Python-Quiz-Game-Application/blob/main/ProjectScreenShots/sql_ss.png" width="800" height="200">
+<br />

@@ -1,4 +1,4 @@
-# Python Quiz Game Application made using Java AWT 
+# QuizWiz (Java AWT Quiz Game)
 A simple Python Quiz Game Application which has been made from AWT (Abstract Window Toolkit) in Java. Also contains database functionality (MySQL) in which scores of all the users are stored, and also the scores of the previous users can be fetched by entering their name and the corresponding phone number.
 
 # About the project
